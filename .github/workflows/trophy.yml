@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN }}
           theme: darkhub
           max-rows: 1
-          max-cols: -1
+          max-cols: 8
           margin-width: 8
           margin-height: 8
           no-background: false
