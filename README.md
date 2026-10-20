@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="250" width="540" src=".github/assets/Post%20by%20%400fps%20·%209%20images.gif"  />
+  <img data-importer="image" width="540" src=".github/assets/Post%20by%20%400fps%20·%209%20images.gif"  />
 </div>
 
 ###
