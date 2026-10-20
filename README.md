@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" width="100%" src=".github/assets/MR_Robot.svg.webp"  />
+  <img data-importer="image" width="100%" src=".github/assets/99a44dca7d10995fc97b7279ffc0389d.png"  />
 </div>
 
 ###
