@@ -17,9 +17,8 @@
 ###
 
 <p data-importer="text" align="left">🐛 Creating bugs since 2024<br>📚 Currently learning:
-  <img width="7" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="postgresql logo"  />
-  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  />
   <br>🎯 Goals: Contribute to a large-scale project, learn something new every day 💭, and keep coding.<br>🎲 And... I listen to music, play video games, and read books.</p>
 
