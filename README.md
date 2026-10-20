@@ -61,8 +61,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
 <hr>
-###
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Brok3ntok3n/Brok3ntok3n/activity-graph-output/activity-graph.svg?radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
