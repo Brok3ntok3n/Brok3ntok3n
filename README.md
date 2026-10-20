@@ -68,7 +68,7 @@
   <img src="https://raw.githubusercontent.com/Brok3ntok3n/Brok3ntok3n/activity-graph-output/activity-graph.svg?radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://raw.githubusercontent.com/Brok3ntok3n/Brok3ntok3n/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Brok3ntok3n&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Brok3ntok3n/Brok3ntok3n/trophy-output/trophy.svg?theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/Brok3ntok3n/Brok3ntok3n/trophy-output/trophy.svg" height="150" alt="trophy graph" />
   <img src="https://raw.githubusercontent.com/Brok3ntok3n/Brok3ntok3n/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
