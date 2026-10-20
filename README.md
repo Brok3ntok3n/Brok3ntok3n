@@ -71,13 +71,3 @@
   <img src="https://raw.githubusercontent.com/Brok3ntok3n/Brok3ntok3n/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Brok3ntok3n/Brok3ntok3n/trophy-output/trophy.svg" height="150" alt="trophy graph" />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brok3ntok3n/Brok3ntok3n/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brok3ntok3n/Brok3ntok3n/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brok3ntok3n/Brok3ntok3n/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
